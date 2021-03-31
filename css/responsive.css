@@ -423,6 +423,10 @@ All responsive css rule
     font-size: 3rem;
   }
 
+  .screenshot-carousel .owl-pagination {
+    visibility: hidden;
+  }
+
   .btn-download {
     display: block;
     width: 100%;
@@ -462,6 +466,10 @@ All responsive css rule
   .screenshot-wrap {
     width: 238px;
     margin-top: 68px;
+  }
+
+  .screenshot-carousel .owl-pagination {
+    visibility: hidden;
   }
 
   .client-logo {
