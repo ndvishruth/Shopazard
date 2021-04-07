@@ -448,8 +448,8 @@ Buttons Styles
   border-radius: 26px;
 }
 .btn.btn-border {
-  color: #ffffff;
-  background-color: #000000;
+  color: #000000;
+  background-color: #47FF48;
   /*color: #ffffff*/;
 }
 .btn.btn-border:focus, .btn.btn-border:visitedm .btn.btn-border:active {
@@ -458,7 +458,7 @@ Buttons Styles
 }
 .btn.btn-border:hover {
   background-color: #ffffff;
-  color: #000000;
+  color: #47FF48;
 }
 .btn + .btn {
   margin-left: 26px;
@@ -628,7 +628,7 @@ Banner Styles
   margin-top: 34px;
 }
 .banner-content .btn-border {
-  color: #ffffff;
+  color: #000000;
 }
 .banner-content .banner-registration {
   background-color: rgba(17, 17, 17, 0.55);
