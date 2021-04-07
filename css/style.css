@@ -427,8 +427,8 @@ Buttons Styles
 }
 .btn:focus, .btn:visited, .btn:active {
   outline: none;
-  color: #ffffff;
-  background-color: #c0392b;
+  color: #000000;
+  background-color: #ffffff;
 }
 .btn:hover {
   background-color: #000000;
