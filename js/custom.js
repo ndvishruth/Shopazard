@@ -58,7 +58,7 @@ $(document).ready(function () {
         itemsTablet: [767, 1],
         itemsMobile: [479, 1],
         slideSpeed: 200,
-        autoPlay: 3000,
+        autoPlay: 5000,
         stopOnHover: true,
         navigation: false,
         pagination: true,
