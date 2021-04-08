@@ -191,7 +191,7 @@ a:focus, a:visited, a:active {
   color: #c0392b;
 }
 a:hover {
-  color: #993025;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -1244,7 +1244,7 @@ Footer Styles
       -moz-transition: all 0.3s ease 0s;
       -o-transition: all 0.3s ease 0s;
       transition: all 0.3s ease 0s;
-      color: #FB7181; }
+      color: #000000; }
       .footer-area .single-footer-widget ul li a:hover {
         color: #fff; }
   .footer-area .single-footer-widget .form-wrap {
@@ -1280,7 +1280,7 @@ Footer Styles
       color: #fff; }
       .footer-area .footer-bottom .footer-text a,
       .footer-area .footer-bottom .footer-text span {
-        color: #EB334A; }
+        color: #000000; }
     .footer-area .footer-bottom span {
       font-weight: 700; }
     .footer-area .footer-bottom .footer-social {
@@ -1675,7 +1675,7 @@ Blog Single Page Styles
   color: inherit;
 }
 .widget ul li a:hover {
-  color: #c0392b;
+  color: #000000;
   text-decoration: none;
 }
 .widget ul li a:before {
@@ -1740,7 +1740,7 @@ Blog Single Page Styles
   line-height: 1.75;
 }
 .widget .widget-tag a:hover {
-  color: #c0392b;
+  color: #000000;
 }
 .widget .social-media {
   float: left;
@@ -1754,7 +1754,7 @@ Blog Single Page Styles
   line-height: 1.75;
 }
 .widget .social-media a:hover {
-  color: #c0392b;
+  color: #000000;
   text-decoration: none;
 }
 
